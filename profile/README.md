@@ -2,11 +2,7 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-04-11 15:02:20Z
-
-## Excluded repositories
-
-- .github
+Last generated: 2026-04-11 09:35:00Z
 
 ## Repositories
 
@@ -29,7 +25,6 @@ Last generated: 2026-04-11 15:02:20Z
 | [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 months ago |
 | [fzf-keys](https://github.com/0xferrous/fzf-keys) | Search through keybinds from various programs using fzf. | 2 months ago |
 | [evm-asm](https://github.com/0xferrous/evm-asm) | compile time evm assembly | 2 months ago |
-| [pass](https://github.com/0xferrous/pass) | No description | 5 months ago |
 | [eth.nvim](https://github.com/0xferrous/eth.nvim) | A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers. | 6 months ago |
 | [struct-storage-layout](https://github.com/0xferrous/struct-storage-layout) | No description | 6 months ago |
 | [clap_complete_all](https://github.com/0xferrous/clap_complete_all) | No description | 7 months ago |
