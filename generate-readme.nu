@@ -1,6 +1,6 @@
 #!/usr/bin/env nu
 
-def main [owner?: string, out: string = "README.md"] {
+def main [owner?: string, out: string = "profile/README.md"] {
   let owner = if ($owner == null) {
     gh api user --jq '.login' | str trim
   } else {
