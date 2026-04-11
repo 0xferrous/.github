@@ -7,7 +7,7 @@ def main [owner?: string, out: string = "profile/README.md"] {
     $owner
   }
 
-  let generated_at = (date now | format date "%Y-%m-%d %H:%M:%SZ")
+  let generated_at = (date now | date to-timezone UTC | format date "%Y-%m-%d %H:%M:%SZ")
   let excluded_repos = [".github"]
 
   let repos = (
@@ -25,10 +25,6 @@ def main [owner?: string, out: string = "profile/README.md"] {
       $"A list of all non-fork repositories under the `($owner)` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time."
       ""
       $"Last generated: ($generated_at)"
-      ""
-      "## Excluded repositories"
-      ""
-      ...($excluded_repos | each { |name| ["- ", $name] | str join "" })
       ""
       "## Repositories"
       ""
