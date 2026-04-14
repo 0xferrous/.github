@@ -2,19 +2,19 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-04-13 10:50:55Z
+Last generated: 2026-04-14 10:19:22Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 2 days ago |
-| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 2 days ago |
-| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 2 days ago |
-| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 3 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | No description | 4 days ago |
-| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | 4 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | 5 days ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 3 days ago |
+| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 3 days ago |
+| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 3 days ago |
+| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 4 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | No description | 5 days ago |
+| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | 5 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | 6 days ago |
 | [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | a week ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support. | a week ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | a week ago |
