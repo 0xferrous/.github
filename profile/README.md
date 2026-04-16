@@ -2,20 +2,20 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-04-15 10:20:24Z
+Last generated: 2026-04-16 10:19:37Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 4 days ago |
-| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 4 days ago |
-| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 4 days ago |
-| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 5 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | No description | 6 days ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 5 days ago |
+| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 5 days ago |
+| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 5 days ago |
+| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 6 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | No description | a week ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | a week ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | a week ago |
-| [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | a week ago |
+| [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | 2 weeks ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support. | 2 weeks ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 2 weeks ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy, with cast send-like transaction sending and extensible smart-account support. | 2 weeks ago |
