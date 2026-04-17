@@ -2,16 +2,16 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-04-16 10:19:37Z
+Last generated: 2026-04-17 10:17:16Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 5 days ago |
-| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 5 days ago |
-| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 5 days ago |
-| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 6 days ago |
+| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 2 hours ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 6 days ago |
+| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 6 days ago |
+| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a week ago |
 | [my-nix](https://github.com/0xferrous/my-nix) | No description | a week ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | a week ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | a week ago |
