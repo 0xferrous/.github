@@ -2,15 +2,15 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-04-17 10:17:16Z
+Last generated: 2026-04-18 09:53:32Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 2 hours ago |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 6 days ago |
-| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 6 days ago |
+| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | a day ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | a week ago |
+| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | a week ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a week ago |
 | [my-nix](https://github.com/0xferrous/my-nix) | No description | a week ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | a week ago |
