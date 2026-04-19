@@ -2,19 +2,19 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-04-18 09:53:32Z
+Last generated: 2026-04-19 09:52:45Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | a day ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | 2 hours ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | No description | 2 hours ago |
+| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 2 days ago |
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | a week ago |
 | [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | a week ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a week ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | No description | a week ago |
-| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | a week ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | a week ago |
+| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | 2 weeks ago |
 | [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | 2 weeks ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support. | 2 weeks ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 2 weeks ago |
