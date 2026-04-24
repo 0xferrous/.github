@@ -2,17 +2,17 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-04-23 10:24:33Z
+Last generated: 2026-04-24 10:26:27Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a day ago |
-| [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | 2 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | No description | 2 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | 2 days ago |
-| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 6 days ago |
+| [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | 15 hours ago |
+| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 2 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | No description | 3 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | 3 days ago |
+| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | a week ago |
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 2 weeks ago |
 | [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 2 weeks ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | 2 weeks ago |
