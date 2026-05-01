@@ -2,16 +2,17 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-04-30 10:59:24Z
+Last generated: 2026-05-01 10:26:02Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 5 hours ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | No description | a day ago |
-| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | 4 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | 4 days ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | No description | 2 hours ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | a day ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | No description | 2 days ago |
+| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | 5 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | 5 days ago |
 | [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | a week ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a week ago |
 | [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 2 weeks ago |
