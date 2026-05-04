@@ -2,22 +2,22 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-05-03 10:10:14Z
+Last generated: 2026-05-04 11:08:38Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [my-nix](https://github.com/0xferrous/my-nix) | No description | a day ago |
-| [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | a day ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | No description | 2 days ago |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 3 days ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | No description | 2 hours ago |
+| [agent-box](https://github.com/0xferrous/agent-box) |  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces | 4 hours ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | No description | 5 hours ago |
+| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 21 hours ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 4 days ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer. | a week ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases. | a week ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 2 weeks ago |
-| [ghmd](https://github.com/0xferrous/ghmd) | GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes. | 2 weeks ago |
 | [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 3 weeks ago |
-| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support. | 4 weeks ago |
+| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support. | a month ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | a month ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy, with cast send-like transaction sending and extensible smart-account support. | a month ago |
 | [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | a month ago |
@@ -30,4 +30,4 @@ Last generated: 2026-05-03 10:10:14Z
 | [struct-storage-layout](https://github.com/0xferrous/struct-storage-layout) | No description | 7 months ago |
 | [clap_complete_all](https://github.com/0xferrous/clap_complete_all) | No description | 8 months ago |
 | [frs-xofi-menus](https://github.com/0xferrous/frs-xofi-menus) | No description | 9 months ago |
-| [eth.nu](https://github.com/0xferrous/eth.nu) | No description | 10 months ago |
+| [eth.nu](https://github.com/0xferrous/eth.nu) | No description | 11 months ago |
