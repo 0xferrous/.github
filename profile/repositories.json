@@ -1,21 +1,27 @@
 [
   {
-    "name": "cctp",
-    "url": "https://github.com/0xferrous/cctp",
-    "description": "CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support.",
-    "updatedAt": "2026-05-09T09:20:16Z"
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-05-10T09:20:24Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-05-10T08:19:39Z"
   },
   {
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "",
-    "updatedAt": "2026-05-09T07:53:54Z"
+    "updatedAt": "2026-05-10T05:55:12Z"
   },
   {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-05-09T07:53:33Z"
+    "name": "cctp",
+    "url": "https://github.com/0xferrous/cctp",
+    "description": "CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support.",
+    "updatedAt": "2026-05-09T09:20:16Z"
   },
   {
     "name": "dbuz",
@@ -94,12 +100,6 @@
     "url": "https://github.com/0xferrous/agent-box.nu",
     "description": "",
     "updatedAt": "2026-02-12T10:22:38Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-02-08T05:18:52Z"
   },
   {
     "name": "fzf-keys",

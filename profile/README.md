@@ -2,29 +2,29 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-05-10 05:32:57Z
+Last generated: 2026-05-10 10:19:01Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 20 hours ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | No description | 21 hours ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 21 hours ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | an hour ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 hours ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | No description | 4 hours ago |
+| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | a day ago |
 | [dbuz](https://github.com/0xferrous/dbuz) | Terminal UI for exploring debugging and interacting with D Bus services | 2 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 3 days ago |
-| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 5 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 days ago |
+| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 6 days ago |
 | [ghmd](https://github.com/0xferrous/ghmd) | GitHub flavored Markdown to HTML renderer with TOC syntax highlighting Mermaid and footnotes | a week ago |
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | a week ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 2 weeks ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 2 weeks ago |
-| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 4 weeks ago |
+| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | a month ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | a month ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | a month ago |
 | [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | 2 months ago |
 | [wispd](https://github.com/0xferrous/wispd) | A Wayland notification daemon implementing org freedesktop Notifications with a layer shell popup UI and debug tooling | 2 months ago |
 | [agent-box.nu](https://github.com/0xferrous/agent-box.nu) | No description | 2 months ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 3 months ago |
 | [fzf-keys](https://github.com/0xferrous/fzf-keys) | Search through keybinds from various programs using fzf | 3 months ago |
 | [evm-asm](https://github.com/0xferrous/evm-asm) | compile time evm assembly | 3 months ago |
 | [eth.nvim](https://github.com/0xferrous/eth.nvim) | A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers | 7 months ago |
