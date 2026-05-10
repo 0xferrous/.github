@@ -1,6 +1,6 @@
 #!/usr/bin/env nu
 
-def main [owner?: string, out: string = "profile/README.md"] {
+def main [owner?: string, out: string = "profile/README.md", json_out: string = "profile/repositories.json"] {
   let owner = if ($owner == null) {
     gh api user --jq '.login' | str trim
   } else {
@@ -18,6 +18,12 @@ def main [owner?: string, out: string = "profile/README.md"] {
     | sort-by updatedAt --reverse
   )
 
+  let repos_json = (
+    $repos
+    | select name url description updatedAt
+    | to json
+  )
+
   let content = (
     [
       $"# ($owner) GitHub repositories"
@@ -31,7 +37,7 @@ def main [owner?: string, out: string = "profile/README.md"] {
       "| Repository | Description | Last updated |"
       "| --- | --- | --- |"
       ...($repos | each { |repo|
-        let description = if ($repo.description | is-empty) { "No description" } else { $repo.description }
+        let description = if ($repo.description | is-empty) { "No description" } else { ($repo.description | str trim | split words | str join " ") }
         let last_updated = ($repo.updatedAt | into datetime | date humanize)
         ["| [", $repo.name, "](", $repo.url, ") | ", $description, " | ", $last_updated, " |"] | str join ""
       })
@@ -40,4 +46,5 @@ def main [owner?: string, out: string = "profile/README.md"] {
   )
 
   $content | save -f $out
+  $repos_json | save -f $json_out
 }
