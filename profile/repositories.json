@@ -1,0 +1,146 @@
+[
+  {
+    "name": "cctp",
+    "url": "https://github.com/0xferrous/cctp",
+    "description": "CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support.",
+    "updatedAt": "2026-05-09T09:20:16Z"
+  },
+  {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "",
+    "updatedAt": "2026-05-09T07:53:54Z"
+  },
+  {
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-05-09T07:53:33Z"
+  },
+  {
+    "name": "dbuz",
+    "url": "https://github.com/0xferrous/dbuz",
+    "description": "Terminal UI for exploring, debugging, and interacting with D-Bus services.",
+    "updatedAt": "2026-05-07T14:47:32Z"
+  },
+  {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-05-06T05:57:04Z"
+  },
+  {
+    "name": "agent-box",
+    "url": "https://github.com/0xferrous/agent-box",
+    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+    "updatedAt": "2026-05-04T07:03:37Z"
+  },
+  {
+    "name": "ghmd",
+    "url": "https://github.com/0xferrous/ghmd",
+    "description": "GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes.",
+    "updatedAt": "2026-05-03T13:57:51Z"
+  },
+  {
+    "name": "trace",
+    "url": "https://github.com/0xferrous/trace",
+    "description": "Interactive traces for foundry",
+    "updatedAt": "2026-04-30T05:28:00Z"
+  },
+  {
+    "name": "ansi.nvim",
+    "url": "https://github.com/0xferrous/ansi.nvim",
+    "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
+    "updatedAt": "2026-04-26T08:22:57Z"
+  },
+  {
+    "name": "agent-stuff",
+    "url": "https://github.com/0xferrous/agent-stuff",
+    "description": "",
+    "updatedAt": "2026-04-22T08:23:55Z"
+  },
+  {
+    "name": "frcat",
+    "url": "https://github.com/0xferrous/frcat",
+    "description": "Inspect Frame signer files and extract keys from local data",
+    "updatedAt": "2026-04-11T07:19:39Z"
+  },
+  {
+    "name": "diffie.nvim",
+    "url": "https://github.com/0xferrous/diffie.nvim",
+    "description": "",
+    "updatedAt": "2026-04-04T04:58:02Z"
+  },
+  {
+    "name": "ethx",
+    "url": "https://github.com/0xferrous/ethx",
+    "description": "Experimental Ethereum CLI built on Foundry and Alloy, with cast send-like transaction sending and extensible smart-account support.",
+    "updatedAt": "2026-03-31T04:03:31Z"
+  },
+  {
+    "name": "frs-nvim",
+    "url": "https://github.com/0xferrous/frs-nvim",
+    "description": "",
+    "updatedAt": "2026-03-23T05:34:06Z"
+  },
+  {
+    "name": "wispd",
+    "url": "https://github.com/0xferrous/wispd",
+    "description": "A Wayland notification daemon implementing org.freedesktop.Notifications, with a layer-shell popup UI  and debug tooling.",
+    "updatedAt": "2026-03-11T16:05:24Z"
+  },
+  {
+    "name": "agent-box.nu",
+    "url": "https://github.com/0xferrous/agent-box.nu",
+    "description": "",
+    "updatedAt": "2026-02-12T10:22:38Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-02-08T05:18:52Z"
+  },
+  {
+    "name": "fzf-keys",
+    "url": "https://github.com/0xferrous/fzf-keys",
+    "description": "Search through keybinds from various programs using fzf.",
+    "updatedAt": "2026-01-14T10:25:12Z"
+  },
+  {
+    "name": "evm-asm",
+    "url": "https://github.com/0xferrous/evm-asm",
+    "description": "compile time evm assembly",
+    "updatedAt": "2026-01-13T06:36:40Z"
+  },
+  {
+    "name": "eth.nvim",
+    "url": "https://github.com/0xferrous/eth.nvim",
+    "description": "A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers.",
+    "updatedAt": "2025-10-11T14:48:28Z"
+  },
+  {
+    "name": "struct-storage-layout",
+    "url": "https://github.com/0xferrous/struct-storage-layout",
+    "description": "",
+    "updatedAt": "2025-09-25T06:15:43Z"
+  },
+  {
+    "name": "clap_complete_all",
+    "url": "https://github.com/0xferrous/clap_complete_all",
+    "description": "",
+    "updatedAt": "2025-08-30T07:15:00Z"
+  },
+  {
+    "name": "frs-xofi-menus",
+    "url": "https://github.com/0xferrous/frs-xofi-menus",
+    "description": "",
+    "updatedAt": "2025-07-19T07:44:04Z"
+  },
+  {
+    "name": "eth.nu",
+    "url": "https://github.com/0xferrous/eth.nu",
+    "description": "",
+    "updatedAt": "2025-06-08T00:48:49Z"
+  }
+]
