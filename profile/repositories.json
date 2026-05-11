@@ -3,13 +3,19 @@
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-05-10T09:20:24Z"
+    "updatedAt": "2026-05-11T09:38:26Z"
+  },
+  {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-05-11T06:34:41Z"
   },
   {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
-    "updatedAt": "2026-05-10T08:19:39Z"
+    "updatedAt": "2026-05-10T11:04:10Z"
   },
   {
     "name": "my-nix",
@@ -28,12 +34,6 @@
     "url": "https://github.com/0xferrous/dbuz",
     "description": "Terminal UI for exploring, debugging, and interacting with D-Bus services.",
     "updatedAt": "2026-05-07T14:47:32Z"
-  },
-  {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-05-06T05:57:04Z"
   },
   {
     "name": "agent-box",
