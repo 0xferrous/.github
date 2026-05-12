@@ -1,5 +1,11 @@
 [
   {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-05-12T05:24:46Z"
+  },
+  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
@@ -16,12 +22,6 @@
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
     "updatedAt": "2026-05-10T11:04:10Z"
-  },
-  {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "",
-    "updatedAt": "2026-05-10T05:55:12Z"
   },
   {
     "name": "cctp",

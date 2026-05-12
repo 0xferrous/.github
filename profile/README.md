@@ -2,18 +2,18 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-05-11 12:15:23Z
+Last generated: 2026-05-12 11:24:10Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 hours ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 5 hours ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | No description | a day ago |
-| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 2 days ago |
-| [dbuz](https://github.com/0xferrous/dbuz) | Terminal UI for exploring debugging and interacting with D Bus services | 3 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 5 hours ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a day ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a day ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 days ago |
+| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 3 days ago |
+| [dbuz](https://github.com/0xferrous/dbuz) | Terminal UI for exploring debugging and interacting with D Bus services | 4 days ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | a week ago |
 | [ghmd](https://github.com/0xferrous/ghmd) | GitHub flavored Markdown to HTML renderer with TOC syntax highlighting Mermaid and footnotes | a week ago |
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 2 weeks ago |
