@@ -1,5 +1,11 @@
 [
   {
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-05-14T08:38:26Z"
+  },
+  {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
@@ -10,12 +16,6 @@
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
     "updatedAt": "2026-05-12T05:24:46Z"
-  },
-  {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-05-11T09:38:26Z"
   },
   {
     "name": "CodexBar-flake",
