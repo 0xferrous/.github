@@ -2,17 +2,17 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-05-15 11:24:28Z
+Last generated: 2026-05-16 10:19:59Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 3 hours ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a day ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 3 days ago |
-| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 6 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 hours ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 15 hours ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 days ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 3 days ago |
+| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | a week ago |
 | [dbuz](https://github.com/0xferrous/dbuz) | Terminal UI for exploring debugging and interacting with D Bus services | a week ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 2 weeks ago |
 | [ghmd](https://github.com/0xferrous/ghmd) | GitHub flavored Markdown to HTML renderer with TOC syntax highlighting Mermaid and footnotes | 2 weeks ago |
