@@ -1,5 +1,11 @@
 [
   {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-05-17T11:14:39Z"
+  },
+  {
     "name": "agent-box",
     "url": "https://github.com/0xferrous/agent-box",
     "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
@@ -10,12 +16,6 @@
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
     "updatedAt": "2026-05-17T06:12:06Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-05-16T11:07:08Z"
   },
   {
     "name": "CodexBar-flake",
