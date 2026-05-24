@@ -1,5 +1,11 @@
 [
   {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-05-24T06:26:50Z"
+  },
+  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
@@ -28,12 +34,6 @@
     "url": "https://github.com/0xferrous/agent-box",
     "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
     "updatedAt": "2026-05-17T08:37:50Z"
-  },
-  {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-05-17T06:12:06Z"
   },
   {
     "name": "cctp",
