@@ -1,33 +1,33 @@
 [
   {
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-05-29T09:49:59Z"
+  },
+  {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-05-29T06:45:29Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-05-28T13:57:55Z"
+  },
+  {
     "name": "agent-box",
     "url": "https://github.com/0xferrous/agent-box",
     "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
     "updatedAt": "2026-05-28T00:40:03Z"
   },
   {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-05-27T12:58:29Z"
-  },
-  {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-05-27T06:54:54Z"
-  },
-  {
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
     "updatedAt": "2026-05-27T00:55:34Z"
-  },
-  {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-05-21T09:36:59Z"
   },
   {
     "name": "ansi.nvim",
