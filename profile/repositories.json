@@ -1,27 +1,33 @@
 [
   {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-06-01T19:44:29Z"
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-06-03T10:54:11Z"
   },
   {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-06-01T08:26:12Z"
+    "updatedAt": "2026-06-03T08:06:47Z"
+  },
+  {
+    "name": "cctp",
+    "url": "https://github.com/0xferrous/cctp",
+    "description": "CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support.",
+    "updatedAt": "2026-06-03T03:09:31Z"
   },
   {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
-    "updatedAt": "2026-05-31T11:43:28Z"
+    "updatedAt": "2026-06-02T14:19:47Z"
   },
   {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-05-29T09:49:59Z"
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-06-01T19:44:29Z"
   },
   {
     "name": "agent-box",
@@ -34,12 +40,6 @@
     "url": "https://github.com/0xferrous/ansi.nvim",
     "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
     "updatedAt": "2026-05-18T16:13:15Z"
-  },
-  {
-    "name": "cctp",
-    "url": "https://github.com/0xferrous/cctp",
-    "description": "CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support.",
-    "updatedAt": "2026-05-09T09:20:16Z"
   },
   {
     "name": "dbuz",
