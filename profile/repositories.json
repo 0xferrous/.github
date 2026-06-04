@@ -3,7 +3,13 @@
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-06-03T10:54:11Z"
+    "updatedAt": "2026-06-04T09:55:52Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-06-03T15:01:31Z"
   },
   {
     "name": "CodexBar-flake",
@@ -16,12 +22,6 @@
     "url": "https://github.com/0xferrous/cctp",
     "description": "CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support.",
     "updatedAt": "2026-06-03T03:09:31Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-06-02T14:19:47Z"
   },
   {
     "name": "my-nix",
