@@ -1,5 +1,23 @@
 [
   {
+    "name": "ethx",
+    "url": "https://github.com/0xferrous/ethx",
+    "description": "Experimental Ethereum CLI built on Foundry and Alloy, with cast send-like transaction sending and extensible smart-account support.",
+    "updatedAt": "2026-06-07T09:13:23Z"
+  },
+  {
+    "name": "univ4-erc7399-flash-loan",
+    "url": "https://github.com/0xferrous/univ4-erc7399-flash-loan",
+    "description": "ERC-7399 flash loan wrapper for Uniswap v4",
+    "updatedAt": "2026-06-07T09:05:10Z"
+  },
+  {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-06-07T06:57:28Z"
+  },
+  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
@@ -22,12 +40,6 @@
     "url": "https://github.com/0xferrous/cctp",
     "description": "CLI for Circle CCTP transfers with EVM burn, claim, bridge, attestation,  and re-attestation support.",
     "updatedAt": "2026-06-03T03:09:31Z"
-  },
-  {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-06-01T19:44:29Z"
   },
   {
     "name": "agent-box",
@@ -76,12 +88,6 @@
     "url": "https://github.com/0xferrous/diffie.nvim",
     "description": "",
     "updatedAt": "2026-04-04T04:58:02Z"
-  },
-  {
-    "name": "ethx",
-    "url": "https://github.com/0xferrous/ethx",
-    "description": "Experimental Ethereum CLI built on Foundry and Alloy, with cast send-like transaction sending and extensible smart-account support.",
-    "updatedAt": "2026-03-31T04:03:31Z"
   },
   {
     "name": "frs-nvim",
