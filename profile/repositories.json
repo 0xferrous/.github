@@ -1,5 +1,17 @@
 [
   {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-06-07T15:00:32Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-06-07T14:32:16Z"
+  },
+  {
     "name": "ethx",
     "url": "https://github.com/0xferrous/ethx",
     "description": "Experimental Ethereum CLI built on Foundry and Alloy, with cast send-like transaction sending and extensible smart-account support.",
@@ -12,22 +24,10 @@
     "updatedAt": "2026-06-07T09:05:10Z"
   },
   {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-06-07T06:57:28Z"
-  },
-  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
     "updatedAt": "2026-06-06T07:41:23Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-06-03T15:01:31Z"
   },
   {
     "name": "CodexBar-flake",
