@@ -1,15 +1,15 @@
 [
   {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-06-08T14:16:20Z"
+  },
+  {
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
     "updatedAt": "2026-06-07T15:00:32Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-06-07T14:32:16Z"
   },
   {
     "name": "ethx",
