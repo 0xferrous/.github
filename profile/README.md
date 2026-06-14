@@ -2,24 +2,24 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-06-13 11:19:18Z
+Last generated: 2026-06-14 11:33:32Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 hours ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 hours ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a day ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 4 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 5 days ago |
-| [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 6 days ago |
-| [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | 6 days ago |
-| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | a week ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 4 hours ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 5 days ago |
+| [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | a week ago |
+| [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | a week ago |
+| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 2 weeks ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 2 weeks ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 3 weeks ago |
 | [dbuz](https://github.com/0xferrous/dbuz) | Terminal UI for exploring debugging and interacting with D Bus services | a month ago |
 | [ghmd](https://github.com/0xferrous/ghmd) | GitHub flavored Markdown to HTML renderer with TOC syntax highlighting Mermaid and footnotes | a month ago |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | a month ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 2 months ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 2 months ago |
 | [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 2 months ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 2 months ago |
@@ -31,5 +31,5 @@ Last generated: 2026-06-13 11:19:18Z
 | [eth.nvim](https://github.com/0xferrous/eth.nvim) | A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers | 8 months ago |
 | [struct-storage-layout](https://github.com/0xferrous/struct-storage-layout) | No description | 8 months ago |
 | [clap_complete_all](https://github.com/0xferrous/clap_complete_all) | No description | 9 months ago |
-| [frs-xofi-menus](https://github.com/0xferrous/frs-xofi-menus) | No description | 10 months ago |
+| [frs-xofi-menus](https://github.com/0xferrous/frs-xofi-menus) | No description | 11 months ago |
 | [eth.nu](https://github.com/0xferrous/eth.nu) | No description | a year ago |
