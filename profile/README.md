@@ -2,16 +2,16 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-06-14 11:33:32Z
+Last generated: 2026-06-15 15:19:20Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 hours ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 hours ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 4 hours ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 5 days ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 3 hours ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a day ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | a day ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | a week ago |
 | [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | a week ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 2 weeks ago |
