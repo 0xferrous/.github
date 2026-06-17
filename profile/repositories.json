@@ -1,15 +1,21 @@
 [
   {
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-06-17T10:53:16Z"
+  },
+  {
+    "name": "ethx",
+    "url": "https://github.com/0xferrous/ethx",
+    "description": "Experimental Ethereum CLI built on Foundry and Alloy, with cast send-like transaction sending and extensible smart-account support.",
+    "updatedAt": "2026-06-17T04:54:02Z"
+  },
+  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
     "updatedAt": "2026-06-16T08:39:33Z"
-  },
-  {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-06-15T12:00:50Z"
   },
   {
     "name": "0xferrous.github.io",
@@ -22,12 +28,6 @@
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
     "updatedAt": "2026-06-14T07:15:00Z"
-  },
-  {
-    "name": "ethx",
-    "url": "https://github.com/0xferrous/ethx",
-    "description": "Experimental Ethereum CLI built on Foundry and Alloy, with cast send-like transaction sending and extensible smart-account support.",
-    "updatedAt": "2026-06-07T09:13:23Z"
   },
   {
     "name": "univ4-erc7399-flash-loan",
