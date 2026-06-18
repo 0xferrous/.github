@@ -3,7 +3,13 @@
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-06-17T10:53:16Z"
+    "updatedAt": "2026-06-18T10:21:22Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-06-17T13:47:41Z"
   },
   {
     "name": "ethx",
@@ -16,12 +22,6 @@
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
     "updatedAt": "2026-06-16T08:39:33Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-06-14T12:02:57Z"
   },
   {
     "name": "my-nix",
