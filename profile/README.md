@@ -2,17 +2,17 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-06-20 11:21:29Z
+Last generated: 2026-06-21 11:48:15Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | an hour ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 hours ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 hours ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 21 hours ago |
-| [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 3 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 2 hours ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a day ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a day ago |
+| [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 4 days ago |
 | [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | 2 weeks ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 2 weeks ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 3 weeks ago |
@@ -23,7 +23,7 @@ Last generated: 2026-06-20 11:21:29Z
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 2 months ago |
 | [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 2 months ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 2 months ago |
-| [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | 2 months ago |
+| [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | 3 months ago |
 | [wispd](https://github.com/0xferrous/wispd) | A Wayland notification daemon implementing org freedesktop Notifications with a layer shell popup UI and debug tooling | 3 months ago |
 | [agent-box.nu](https://github.com/0xferrous/agent-box.nu) | No description | 4 months ago |
 | [fzf-keys](https://github.com/0xferrous/fzf-keys) | Search through keybinds from various programs using fzf | 5 months ago |
