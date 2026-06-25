@@ -1,5 +1,11 @@
 [
   {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-06-24T12:23:09Z"
+  },
+  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
@@ -16,12 +22,6 @@
     "url": "https://github.com/0xferrous/ansi.nvim",
     "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
     "updatedAt": "2026-06-24T02:00:56Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-06-23T12:38:54Z"
   },
   {
     "name": "CodexBar-flake",
