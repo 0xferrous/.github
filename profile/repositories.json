@@ -1,5 +1,11 @@
 [
   {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-06-28T06:58:24Z"
+  },
+  {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
@@ -10,12 +16,6 @@
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
     "updatedAt": "2026-06-24T09:05:56Z"
-  },
-  {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-06-24T05:52:42Z"
   },
   {
     "name": "ansi.nvim",
