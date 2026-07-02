@@ -1,5 +1,17 @@
 [
   {
+    "name": "agent-box",
+    "url": "https://github.com/0xferrous/agent-box",
+    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+    "updatedAt": "2026-07-02T10:24:29Z"
+  },
+  {
+    "name": "jj-conflict.nvim",
+    "url": "https://github.com/0xferrous/jj-conflict.nvim",
+    "description": "",
+    "updatedAt": "2026-07-02T08:50:33Z"
+  },
+  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
@@ -10,12 +22,6 @@
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
     "updatedAt": "2026-06-29T14:11:52Z"
-  },
-  {
-    "name": "agent-box",
-    "url": "https://github.com/0xferrous/agent-box",
-    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
-    "updatedAt": "2026-06-28T14:07:30Z"
   },
   {
     "name": "my-nix",
