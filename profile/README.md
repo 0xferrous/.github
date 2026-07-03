@@ -2,17 +2,17 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-07-02 11:37:31Z
+Last generated: 2026-07-03 11:36:09Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | an hour ago |
-| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | No description | 2 hours ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a day ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 4 days ago |
+| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 19 hours ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 19 hours ago |
+| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 20 hours ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 days ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | a week ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a week ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 2 weeks ago |
@@ -23,7 +23,7 @@ Last generated: 2026-07-02 11:37:31Z
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 2 months ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 2 months ago |
 | [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 2 months ago |
-| [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 2 months ago |
+| [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 3 months ago |
 | [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | 3 months ago |
 | [wispd](https://github.com/0xferrous/wispd) | A Wayland notification daemon implementing org freedesktop Notifications with a layer shell popup UI and debug tooling | 3 months ago |
 | [agent-box.nu](https://github.com/0xferrous/agent-box.nu) | No description | 4 months ago |
