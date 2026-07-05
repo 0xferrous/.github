@@ -3,25 +3,25 @@
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-07-04T07:46:53Z"
+    "updatedAt": "2026-07-05T06:35:01Z"
   },
   {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-07-04T06:10:47Z"
+    "updatedAt": "2026-07-05T06:30:24Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-07-04T11:38:04Z"
   },
   {
     "name": "jj-conflict.nvim",
     "url": "https://github.com/0xferrous/jj-conflict.nvim",
     "description": "Neovim plugin for highlighting and resolving Jujutsu (jj) file conflicts, with multi-sided  conflict support.",
     "updatedAt": "2026-07-04T01:51:41Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-07-03T12:12:25Z"
   },
   {
     "name": "agent-box",
