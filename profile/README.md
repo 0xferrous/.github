@@ -2,19 +2,20 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-07-08 11:08:53Z
+Last generated: 2026-07-09 12:14:36Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a day ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a day ago |
-| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | a day ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 2 days ago |
-| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 4 days ago |
-| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 2 weeks ago |
+| [ash](https://github.com/0xferrous/ash) | No description | an hour ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 hours ago |
+| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 14 hours ago |
+| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 16 hours ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 2 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 3 days ago |
+| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 5 days ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 3 weeks ago |
 | [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | a month ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | a month ago |
@@ -29,7 +30,7 @@ Last generated: 2026-07-08 11:08:53Z
 | [agent-box.nu](https://github.com/0xferrous/agent-box.nu) | No description | 4 months ago |
 | [fzf-keys](https://github.com/0xferrous/fzf-keys) | Search through keybinds from various programs using fzf | 5 months ago |
 | [evm-asm](https://github.com/0xferrous/evm-asm) | compile time evm assembly | 5 months ago |
-| [eth.nvim](https://github.com/0xferrous/eth.nvim) | A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers | 8 months ago |
+| [eth.nvim](https://github.com/0xferrous/eth.nvim) | A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers | 9 months ago |
 | [struct-storage-layout](https://github.com/0xferrous/struct-storage-layout) | No description | 9 months ago |
 | [clap_complete_all](https://github.com/0xferrous/clap_complete_all) | No description | 10 months ago |
 | [frs-xofi-menus](https://github.com/0xferrous/frs-xofi-menus) | No description | a year ago |
