@@ -1,21 +1,33 @@
 [
   {
-    "name": "trace",
-    "url": "https://github.com/0xferrous/trace",
-    "description": "Interactive traces for foundry",
-    "updatedAt": "2026-07-10T05:54:49Z"
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-07-11T07:48:41Z"
+  },
+  {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-07-11T05:36:44Z"
   },
   {
     "name": "ash",
     "url": "https://github.com/0xferrous/ash",
     "description": "A small OCaml CLI for spawning, attaching to, and managing optionally ephemeral NixOS agent VMs via virtle.",
-    "updatedAt": "2026-07-09T17:06:28Z"
+    "updatedAt": "2026-07-10T14:46:04Z"
   },
   {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
-    "updatedAt": "2026-07-09T12:41:17Z"
+    "updatedAt": "2026-07-10T12:29:30Z"
+  },
+  {
+    "name": "trace",
+    "url": "https://github.com/0xferrous/trace",
+    "description": "Interactive traces for foundry",
+    "updatedAt": "2026-07-10T05:54:49Z"
   },
   {
     "name": "plankevm-flake",
@@ -34,18 +46,6 @@
     "url": "https://github.com/0xferrous/ansi.nvim",
     "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
     "updatedAt": "2026-07-08T19:51:27Z"
-  },
-  {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-07-07T06:37:22Z"
-  },
-  {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-07-06T08:23:55Z"
   },
   {
     "name": "jj-conflict.nvim",
