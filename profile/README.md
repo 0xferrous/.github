@@ -2,20 +2,20 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-07-12 10:37:25Z
+Last generated: 2026-07-13 12:09:58Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [ash](https://github.com/0xferrous/ash) | A small OCaml CLI for spawning attaching to and managing optionally ephemeral NixOS agent VMs via virtle | 2 hours ago |
 | [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 4 hours ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 hours ago |
+| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 5 hours ago |
 | [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 2 days ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 3 days ago |
-| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 3 days ago |
-| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 3 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a day ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 3 days ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 4 days ago |
+| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 4 days ago |
+| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 4 days ago |
 | [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | a week ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 3 weeks ago |
 | [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | a month ago |
@@ -28,7 +28,7 @@ Last generated: 2026-07-12 10:37:25Z
 | [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | 3 months ago |
 | [wispd](https://github.com/0xferrous/wispd) | A Wayland notification daemon implementing org freedesktop Notifications with a layer shell popup UI and debug tooling | 4 months ago |
 | [agent-box.nu](https://github.com/0xferrous/agent-box.nu) | No description | 5 months ago |
-| [fzf-keys](https://github.com/0xferrous/fzf-keys) | Search through keybinds from various programs using fzf | 5 months ago |
+| [fzf-keys](https://github.com/0xferrous/fzf-keys) | Search through keybinds from various programs using fzf | 6 months ago |
 | [evm-asm](https://github.com/0xferrous/evm-asm) | compile time evm assembly | 6 months ago |
 | [eth.nvim](https://github.com/0xferrous/eth.nvim) | A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers | 9 months ago |
 | [struct-storage-layout](https://github.com/0xferrous/struct-storage-layout) | No description | 9 months ago |

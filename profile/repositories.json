@@ -1,27 +1,27 @@
 [
   {
-    "name": "ash",
-    "url": "https://github.com/0xferrous/ash",
-    "description": "A small OCaml CLI for spawning, attaching to, and managing optionally ephemeral NixOS agent VMs via virtle.",
-    "updatedAt": "2026-07-12T08:31:24Z"
-  },
-  {
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-07-12T05:50:28Z"
+    "updatedAt": "2026-07-13T07:51:20Z"
+  },
+  {
+    "name": "ash",
+    "url": "https://github.com/0xferrous/ash",
+    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
+    "updatedAt": "2026-07-13T06:53:40Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-07-12T11:15:46Z"
   },
   {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
     "updatedAt": "2026-07-12T05:47:37Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-07-11T11:10:56Z"
   },
   {
     "name": "trace",
