@@ -1,33 +1,39 @@
 [
   {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-07-15T10:22:19Z"
+  },
+  {
+    "name": "agent-stuff",
+    "url": "https://github.com/0xferrous/agent-stuff",
+    "description": "",
+    "updatedAt": "2026-07-15T10:21:47Z"
+  },
+  {
+    "name": "ash",
+    "url": "https://github.com/0xferrous/ash",
+    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
+    "updatedAt": "2026-07-15T09:37:37Z"
+  },
+  {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-07-15T05:22:27Z"
+  },
+  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
     "updatedAt": "2026-07-14T08:00:54Z"
   },
   {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-07-13T17:04:29Z"
-  },
-  {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
     "updatedAt": "2026-07-13T12:35:41Z"
-  },
-  {
-    "name": "ash",
-    "url": "https://github.com/0xferrous/ash",
-    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-07-13T06:53:40Z"
-  },
-  {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-07-12T05:47:37Z"
   },
   {
     "name": "trace",
@@ -82,12 +88,6 @@
     "url": "https://github.com/0xferrous/ghmd",
     "description": "GitHub-flavored Markdown to HTML renderer with TOC, syntax highlighting, Mermaid, and footnotes.",
     "updatedAt": "2026-05-03T13:57:51Z"
-  },
-  {
-    "name": "agent-stuff",
-    "url": "https://github.com/0xferrous/agent-stuff",
-    "description": "",
-    "updatedAt": "2026-04-22T08:23:55Z"
   },
   {
     "name": "frcat",
