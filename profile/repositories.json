@@ -1,9 +1,15 @@
 [
   {
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-07-17T08:08:09Z"
+  },
+  {
     "name": "ash",
     "url": "https://github.com/0xferrous/ash",
     "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-07-16T10:49:15Z"
+    "updatedAt": "2026-07-16T11:18:19Z"
   },
   {
     "name": "0xferrous.github.io",
@@ -28,12 +34,6 @@
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
     "updatedAt": "2026-07-15T05:22:27Z"
-  },
-  {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-07-14T08:00:54Z"
   },
   {
     "name": "trace",
