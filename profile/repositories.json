@@ -1,33 +1,39 @@
 [
   {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-07-20T05:59:20Z"
+  },
+  {
+    "name": "ash",
+    "url": "https://github.com/0xferrous/ash",
+    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
+    "updatedAt": "2026-07-20T05:56:21Z"
+  },
+  {
+    "name": "agent-box",
+    "url": "https://github.com/0xferrous/agent-box",
+    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+    "updatedAt": "2026-07-19T14:03:01Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-07-19T11:13:30Z"
+  },
+  {
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
     "updatedAt": "2026-07-19T05:44:47Z"
   },
   {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-07-19T05:42:15Z"
-  },
-  {
-    "name": "ash",
-    "url": "https://github.com/0xferrous/ash",
-    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-07-18T04:33:11Z"
-  },
-  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
     "updatedAt": "2026-07-17T08:08:09Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-07-15T11:39:32Z"
   },
   {
     "name": "agent-stuff",
@@ -40,12 +46,6 @@
     "url": "https://github.com/0xferrous/trace",
     "description": "Interactive traces for foundry",
     "updatedAt": "2026-07-10T05:54:49Z"
-  },
-  {
-    "name": "agent-box",
-    "url": "https://github.com/0xferrous/agent-box",
-    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
-    "updatedAt": "2026-07-08T22:02:49Z"
   },
   {
     "name": "ansi.nvim",
