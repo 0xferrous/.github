@@ -3,19 +3,19 @@
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-07-21T08:24:46Z"
+    "updatedAt": "2026-07-22T08:27:34Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-07-21T11:51:54Z"
   },
   {
     "name": "agent-box",
     "url": "https://github.com/0xferrous/agent-box",
     "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
     "updatedAt": "2026-07-20T21:12:46Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-07-20T12:23:13Z"
   },
   {
     "name": "CodexBar-flake",
