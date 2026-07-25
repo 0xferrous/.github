@@ -3,7 +3,13 @@
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-07-24T08:24:39Z"
+    "updatedAt": "2026-07-25T08:05:48Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-07-24T11:46:47Z"
   },
   {
     "name": "my-nix",
@@ -16,12 +22,6 @@
     "url": "https://github.com/0xferrous/agent-stuff",
     "description": "",
     "updatedAt": "2026-07-23T16:52:09Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-07-23T11:54:37Z"
   },
   {
     "name": "agent-box",
