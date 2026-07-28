@@ -3,7 +3,7 @@
     "name": "ash",
     "url": "https://github.com/0xferrous/ash",
     "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-07-27T08:57:27Z"
+    "updatedAt": "2026-07-28T05:03:17Z"
   },
   {
     "name": "agent-stuff",
