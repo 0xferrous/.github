@@ -1,9 +1,27 @@
 [
   {
+    "name": "agent-box",
+    "url": "https://github.com/0xferrous/agent-box",
+    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+    "updatedAt": "2026-07-29T09:21:28Z"
+  },
+  {
+    "name": "ansi.nvim",
+    "url": "https://github.com/0xferrous/ansi.nvim",
+    "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
+    "updatedAt": "2026-07-29T00:54:28Z"
+  },
+  {
     "name": "ash",
     "url": "https://github.com/0xferrous/ash",
     "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-07-28T05:03:17Z"
+    "updatedAt": "2026-07-28T18:44:20Z"
+  },
+  {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-07-28T14:42:42Z"
   },
   {
     "name": "agent-stuff",
@@ -18,28 +36,10 @@
     "updatedAt": "2026-07-26T11:24:24Z"
   },
   {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-07-26T05:54:19Z"
-  },
-  {
-    "name": "ansi.nvim",
-    "url": "https://github.com/0xferrous/ansi.nvim",
-    "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
-    "updatedAt": "2026-07-26T01:41:42Z"
-  },
-  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
     "updatedAt": "2026-07-25T08:05:48Z"
-  },
-  {
-    "name": "agent-box",
-    "url": "https://github.com/0xferrous/agent-box",
-    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
-    "updatedAt": "2026-07-20T21:12:46Z"
   },
   {
     "name": "CodexBar-flake",
