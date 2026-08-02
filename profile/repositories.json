@@ -1,5 +1,23 @@
 [
   {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-08-02T05:49:49Z"
+  },
+  {
+    "name": "ansi.nvim",
+    "url": "https://github.com/0xferrous/ansi.nvim",
+    "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
+    "updatedAt": "2026-08-01T22:11:27Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-08-01T11:22:12Z"
+  },
+  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
@@ -18,18 +36,6 @@
     "updatedAt": "2026-08-01T04:45:47Z"
   },
   {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-07-31T18:28:57Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-07-30T11:56:16Z"
-  },
-  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
@@ -40,12 +46,6 @@
     "url": "https://github.com/0xferrous/agent-box",
     "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
     "updatedAt": "2026-07-29T09:21:28Z"
-  },
-  {
-    "name": "ansi.nvim",
-    "url": "https://github.com/0xferrous/ansi.nvim",
-    "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
-    "updatedAt": "2026-07-29T00:54:28Z"
   },
   {
     "name": "trace",
