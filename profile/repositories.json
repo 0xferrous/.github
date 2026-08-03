@@ -1,9 +1,33 @@
 [
   {
+    "name": "ash",
+    "url": "https://github.com/0xferrous/ash",
+    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
+    "updatedAt": "2026-08-03T08:45:44Z"
+  },
+  {
+    "name": "promptus",
+    "url": "https://github.com/0xferrous/promptus",
+    "description": "",
+    "updatedAt": "2026-08-03T05:03:47Z"
+  },
+  {
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-08-02T05:49:49Z"
+    "updatedAt": "2026-08-02T19:20:55Z"
+  },
+  {
+    "name": "agent-stuff",
+    "url": "https://github.com/0xferrous/agent-stuff",
+    "description": "",
+    "updatedAt": "2026-08-02T17:22:29Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-08-02T11:20:31Z"
   },
   {
     "name": "ansi.nvim",
@@ -12,28 +36,10 @@
     "updatedAt": "2026-08-01T22:11:27Z"
   },
   {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-08-01T11:22:12Z"
-  },
-  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
     "updatedAt": "2026-08-01T08:18:56Z"
-  },
-  {
-    "name": "ash",
-    "url": "https://github.com/0xferrous/ash",
-    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-08-01T06:54:12Z"
-  },
-  {
-    "name": "agent-stuff",
-    "url": "https://github.com/0xferrous/agent-stuff",
-    "description": "",
-    "updatedAt": "2026-08-01T04:45:47Z"
   },
   {
     "name": "CodexBar-flake",
