@@ -1,5 +1,17 @@
 [
   {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-08-08T04:04:19Z"
+  },
+  {
+    "name": "ash",
+    "url": "https://github.com/0xferrous/ash",
+    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
+    "updatedAt": "2026-08-07T12:02:16Z"
+  },
+  {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
@@ -12,22 +24,10 @@
     "updatedAt": "2026-08-04T06:20:13Z"
   },
   {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-08-04T05:39:25Z"
-  },
-  {
     "name": "agent-stuff",
     "url": "https://github.com/0xferrous/agent-stuff",
     "description": "",
     "updatedAt": "2026-08-04T04:51:04Z"
-  },
-  {
-    "name": "ash",
-    "url": "https://github.com/0xferrous/ash",
-    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-08-04T04:33:34Z"
   },
   {
     "name": "promptus",
