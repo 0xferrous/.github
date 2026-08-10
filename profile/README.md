@@ -2,18 +2,18 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-08-09 09:44:05Z
+Last generated: 2026-08-10 10:20:46Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 5 hours ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a day ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 5 hours ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | a day ago |
 | [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 2 days ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 4 days ago |
-| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 5 days ago |
-| [promptus](https://github.com/0xferrous/promptus) | No description | 6 days ago |
+| [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 6 days ago |
+| [promptus](https://github.com/0xferrous/promptus) | No description | a week ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | a week ago |
 | [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a week ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 2 weeks ago |
@@ -33,6 +33,6 @@ Last generated: 2026-08-09 09:44:05Z
 | [evm-asm](https://github.com/0xferrous/evm-asm) | compile time evm assembly | 6 months ago |
 | [eth.nvim](https://github.com/0xferrous/eth.nvim) | A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers | 10 months ago |
 | [struct-storage-layout](https://github.com/0xferrous/struct-storage-layout) | No description | 10 months ago |
-| [clap_complete_all](https://github.com/0xferrous/clap_complete_all) | No description | 11 months ago |
+| [clap_complete_all](https://github.com/0xferrous/clap_complete_all) | No description | a year ago |
 | [frs-xofi-menus](https://github.com/0xferrous/frs-xofi-menus) | No description | a year ago |
 | [eth.nu](https://github.com/0xferrous/eth.nu) | No description | a year ago |
