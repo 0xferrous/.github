@@ -1,9 +1,15 @@
 [
   {
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-08-11T07:04:06Z"
+  },
+  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-08-10T04:22:29Z"
+    "updatedAt": "2026-08-11T04:11:28Z"
   },
   {
     "name": "0xferrous.github.io",
@@ -40,12 +46,6 @@
     "url": "https://github.com/0xferrous/ansi.nvim",
     "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
     "updatedAt": "2026-08-01T22:11:27Z"
-  },
-  {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-08-01T08:18:56Z"
   },
   {
     "name": "agent-box",
