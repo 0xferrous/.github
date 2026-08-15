@@ -1,5 +1,23 @@
 [
   {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-08-15T03:30:18Z"
+  },
+  {
+    "name": "agent-box",
+    "url": "https://github.com/0xferrous/agent-box",
+    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+    "updatedAt": "2026-08-14T22:48:19Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-08-14T11:01:36Z"
+  },
+  {
     "name": "ash",
     "url": "https://github.com/0xferrous/ash",
     "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
@@ -10,24 +28,6 @@
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
     "updatedAt": "2026-08-14T08:56:16Z"
-  },
-  {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-08-14T04:42:09Z"
-  },
-  {
-    "name": "agent-box",
-    "url": "https://github.com/0xferrous/agent-box",
-    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
-    "updatedAt": "2026-08-13T14:45:37Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-08-12T11:03:21Z"
   },
   {
     "name": "plankevm-flake",
