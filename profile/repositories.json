@@ -1,5 +1,11 @@
 [
   {
+    "name": "ash",
+    "url": "https://github.com/0xferrous/ash",
+    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
+    "updatedAt": "2026-08-19T12:52:33Z"
+  },
+  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
@@ -28,12 +34,6 @@
     "url": "https://github.com/0xferrous/agent-stuff",
     "description": "",
     "updatedAt": "2026-08-16T04:04:36Z"
-  },
-  {
-    "name": "ash",
-    "url": "https://github.com/0xferrous/ash",
-    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-08-15T14:58:21Z"
   },
   {
     "name": "agent-box",
