@@ -2,17 +2,17 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-08-27 19:41:49Z
+Last generated: 2026-08-28 20:46:44Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 6 hours ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 3 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 3 days ago |
-| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 5 days ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a week ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a day ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 4 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 4 days ago |
+| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | a week ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 weeks ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 2 weeks ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 2 weeks ago |
 | [promptus](https://github.com/0xferrous/promptus) | No description | 3 weeks ago |
