@@ -1,27 +1,33 @@
 [
   {
-    "name": "ash",
-    "url": "https://github.com/0xferrous/ash",
-    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
-    "updatedAt": "2026-08-30T11:40:46Z"
-  },
-  {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-08-30T08:49:20Z"
+    "name": "ansi.nvim",
+    "url": "https://github.com/0xferrous/ansi.nvim",
+    "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
+    "updatedAt": "2026-08-31T10:07:47Z"
   },
   {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-08-29T09:33:37Z"
+    "updatedAt": "2026-08-31T09:07:50Z"
+  },
+  {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-08-31T07:48:04Z"
   },
   {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
-    "updatedAt": "2026-08-24T10:44:40Z"
+    "updatedAt": "2026-08-30T14:45:46Z"
+  },
+  {
+    "name": "ash",
+    "url": "https://github.com/0xferrous/ash",
+    "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
+    "updatedAt": "2026-08-30T11:40:46Z"
   },
   {
     "name": "plankevm-flake",
@@ -46,12 +52,6 @@
     "url": "https://github.com/0xferrous/promptus",
     "description": "",
     "updatedAt": "2026-08-03T05:03:47Z"
-  },
-  {
-    "name": "ansi.nvim",
-    "url": "https://github.com/0xferrous/ansi.nvim",
-    "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
-    "updatedAt": "2026-08-01T22:11:27Z"
   },
   {
     "name": "trace",
