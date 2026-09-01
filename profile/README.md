@@ -2,30 +2,30 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-08-31 16:54:51Z
+Last generated: 2026-09-01 14:02:08Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 6 hours ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 7 hours ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 9 hours ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
-| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | a day ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | an hour ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 5 hours ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 20 hours ago |
+| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | a day ago |
+| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 2 days ago |
 | [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 weeks ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | 2 weeks ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 2 weeks ago |
-| [promptus](https://github.com/0xferrous/promptus) | No description | 4 weeks ago |
+| [promptus](https://github.com/0xferrous/promptus) | No description | a month ago |
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 2 months ago |
 | [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 2 months ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 2 months ago |
 | [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | 2 months ago |
-| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 2 months ago |
+| [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 3 months ago |
 | [dbuz](https://github.com/0xferrous/dbuz) | Terminal UI for exploring debugging and interacting with D Bus services | 3 months ago |
 | [ghmd](https://github.com/0xferrous/ghmd) | GitHub flavored Markdown to HTML renderer with TOC syntax highlighting Mermaid and footnotes | 4 months ago |
 | [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 4 months ago |
-| [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 4 months ago |
+| [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 5 months ago |
 | [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | 5 months ago |
 | [wispd](https://github.com/0xferrous/wispd) | A Wayland notification daemon implementing org freedesktop Notifications with a layer shell popup UI and debug tooling | 5 months ago |
 | [agent-box.nu](https://github.com/0xferrous/agent-box.nu) | No description | 6 months ago |
