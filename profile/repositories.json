@@ -1,9 +1,15 @@
 [
   {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-09-06T07:29:33Z"
+  },
+  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-09-05T07:12:41Z"
+    "updatedAt": "2026-09-06T07:25:07Z"
   },
   {
     "name": "0xferrous.github.io",
@@ -16,12 +22,6 @@
     "url": "https://github.com/0xferrous/ash",
     "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
     "updatedAt": "2026-09-04T06:51:07Z"
-  },
-  {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-09-03T18:16:29Z"
   },
   {
     "name": "ansi.nvim",
