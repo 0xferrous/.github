@@ -1,21 +1,21 @@
 [
   {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-09-06T07:29:33Z"
-  },
-  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-09-06T07:25:07Z"
+    "updatedAt": "2026-09-07T07:41:23Z"
   },
   {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
-    "updatedAt": "2026-09-04T14:08:44Z"
+    "updatedAt": "2026-09-06T13:29:57Z"
+  },
+  {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-09-06T07:29:33Z"
   },
   {
     "name": "ash",
