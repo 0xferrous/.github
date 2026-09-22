@@ -1,9 +1,21 @@
 [
   {
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-09-22T10:55:33Z"
+  },
+  {
+    "name": "agent-box",
+    "url": "https://github.com/0xferrous/agent-box",
+    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+    "updatedAt": "2026-09-22T08:50:10Z"
+  },
+  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-09-21T08:21:29Z"
+    "updatedAt": "2026-09-22T08:03:29Z"
   },
   {
     "name": "my-nix",
@@ -16,12 +28,6 @@
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
     "updatedAt": "2026-09-20T14:02:51Z"
-  },
-  {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-09-16T10:47:23Z"
   },
   {
     "name": "ash",
@@ -40,12 +46,6 @@
     "url": "https://github.com/0xferrous/agent-stuff",
     "description": "",
     "updatedAt": "2026-08-16T04:04:36Z"
-  },
-  {
-    "name": "agent-box",
-    "url": "https://github.com/0xferrous/agent-box",
-    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
-    "updatedAt": "2026-08-14T22:48:19Z"
   },
   {
     "name": "promptus",
