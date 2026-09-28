@@ -1,5 +1,17 @@
 [
   {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-09-28T09:06:46Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-09-27T15:03:17Z"
+  },
+  {
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
@@ -12,22 +24,10 @@
     "updatedAt": "2026-09-26T10:47:35Z"
   },
   {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-09-26T08:06:50Z"
-  },
-  {
     "name": "pi-near-ai",
     "url": "https://github.com/0xferrous/pi-near-ai",
     "description": "a pi provider plugin to access near..ai's private inference  ",
     "updatedAt": "2026-09-26T04:53:08Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-09-23T14:49:37Z"
   },
   {
     "name": "agent-box",
