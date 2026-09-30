@@ -3,7 +3,7 @@
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-09-29T09:16:11Z"
+    "updatedAt": "2026-09-30T09:08:39Z"
   },
   {
     "name": "0xferrous.github.io",
