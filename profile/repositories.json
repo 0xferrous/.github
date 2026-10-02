@@ -1,5 +1,11 @@
 [
   {
+    "name": "agent-stuff",
+    "url": "https://github.com/0xferrous/agent-stuff",
+    "description": "",
+    "updatedAt": "2026-10-02T07:04:03Z"
+  },
+  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
@@ -46,12 +52,6 @@
     "url": "https://github.com/0xferrous/ansi.nvim",
     "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
     "updatedAt": "2026-08-31T10:07:47Z"
-  },
-  {
-    "name": "agent-stuff",
-    "url": "https://github.com/0xferrous/agent-stuff",
-    "description": "",
-    "updatedAt": "2026-08-16T04:04:36Z"
   },
   {
     "name": "promptus",
