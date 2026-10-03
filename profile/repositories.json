@@ -1,15 +1,15 @@
 [
   {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-10-03T08:43:00Z"
+  },
+  {
     "name": "agent-stuff",
     "url": "https://github.com/0xferrous/agent-stuff",
     "description": "",
     "updatedAt": "2026-10-02T07:04:03Z"
-  },
-  {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-09-30T09:08:39Z"
   },
   {
     "name": "0xferrous.github.io",
