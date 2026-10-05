@@ -1,33 +1,33 @@
 [
   {
+    "name": "plankevm-flake",
+    "url": "https://github.com/0xferrous/plankevm-flake",
+    "description": "Flake for plankc, nightly and stable releases.",
+    "updatedAt": "2026-10-05T13:30:01Z"
+  },
+  {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-10-05T09:48:02Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-10-04T15:12:48Z"
+  },
+  {
     "name": "my-nix",
     "url": "https://github.com/0xferrous/my-nix",
     "description": "My public nix config, with some reusable modules",
     "updatedAt": "2026-10-04T09:12:54Z"
   },
   {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-10-04T08:58:24Z"
-  },
-  {
     "name": "agent-stuff",
     "url": "https://github.com/0xferrous/agent-stuff",
     "description": "",
     "updatedAt": "2026-10-02T07:04:03Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-09-27T15:03:17Z"
-  },
-  {
-    "name": "plankevm-flake",
-    "url": "https://github.com/0xferrous/plankevm-flake",
-    "description": "Flake for plankc, nightly and stable releases.",
-    "updatedAt": "2026-09-26T10:47:35Z"
   },
   {
     "name": "pi-near-ai",
