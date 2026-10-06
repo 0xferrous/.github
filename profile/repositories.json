@@ -1,5 +1,11 @@
 [
   {
+    "name": "agent-box",
+    "url": "https://github.com/0xferrous/agent-box",
+    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+    "updatedAt": "2026-10-05T23:01:29Z"
+  },
+  {
     "name": "plankevm-flake",
     "url": "https://github.com/0xferrous/plankevm-flake",
     "description": "Flake for plankc, nightly and stable releases.",
@@ -34,12 +40,6 @@
     "url": "https://github.com/0xferrous/pi-near-ai",
     "description": "a pi provider plugin to access near..ai's private inference  ",
     "updatedAt": "2026-09-26T04:53:08Z"
-  },
-  {
-    "name": "agent-box",
-    "url": "https://github.com/0xferrous/agent-box",
-    "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
-    "updatedAt": "2026-09-23T10:37:53Z"
   },
   {
     "name": "ash",
