@@ -1,27 +1,27 @@
 [
   {
-    "name": "my-nix",
-    "url": "https://github.com/0xferrous/my-nix",
-    "description": "My public nix config, with some reusable modules",
-    "updatedAt": "2026-10-15T10:31:15Z"
-  },
-  {
     "name": "CodexBar-flake",
     "url": "https://github.com/0xferrous/CodexBar-flake",
     "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-10-14T08:10:26Z"
+    "updatedAt": "2026-10-16T07:40:05Z"
+  },
+  {
+    "name": "0xferrous.github.io",
+    "url": "https://github.com/0xferrous/0xferrous.github.io",
+    "description": "",
+    "updatedAt": "2026-10-15T14:47:12Z"
+  },
+  {
+    "name": "my-nix",
+    "url": "https://github.com/0xferrous/my-nix",
+    "description": "My public nix config, with some reusable modules",
+    "updatedAt": "2026-10-15T14:39:23Z"
   },
   {
     "name": "ash",
     "url": "https://github.com/0xferrous/ash",
     "description": "ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS agent VMs through virtle.",
     "updatedAt": "2026-10-10T03:55:38Z"
-  },
-  {
-    "name": "0xferrous.github.io",
-    "url": "https://github.com/0xferrous/0xferrous.github.io",
-    "description": "",
-    "updatedAt": "2026-10-09T16:54:15Z"
   },
   {
     "name": "agent-box",
