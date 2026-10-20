@@ -1,5 +1,11 @@
 [
   {
+    "name": "CodexBar-flake",
+    "url": "https://github.com/0xferrous/CodexBar-flake",
+    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
+    "updatedAt": "2026-10-20T08:01:38Z"
+  },
+  {
     "name": "0xferrous.github.io",
     "url": "https://github.com/0xferrous/0xferrous.github.io",
     "description": "",
@@ -16,12 +22,6 @@
     "url": "https://github.com/0xferrous/drydock",
     "description": "",
     "updatedAt": "2026-10-18T03:29:44Z"
-  },
-  {
-    "name": "CodexBar-flake",
-    "url": "https://github.com/0xferrous/CodexBar-flake",
-    "description": "Nix flake packaging the Linux CodexBar CLI, with automated updates from upstream GitHub releases.",
-    "updatedAt": "2026-10-17T07:18:23Z"
   },
   {
     "name": "ash",
