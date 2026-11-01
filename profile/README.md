@@ -2,25 +2,25 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-10-31 15:11:34Z
+Last generated: 2026-11-01 15:53:26Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 8 hours ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 2 hours ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 5 hours ago |
 | [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a day ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 2 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 days ago |
-| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 5 days ago |
+| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 6 days ago |
 | [drydock](https://github.com/0xferrous/drydock) | No description | 2 weeks ago |
 | [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 3 weeks ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a month ago |
 | [pi-near-ai](https://github.com/0xferrous/pi-near-ai) | a pi provider plugin to access near ai's private inference | a month ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 2 months ago |
-| [promptus](https://github.com/0xferrous/promptus) | No description | 2 months ago |
+| [promptus](https://github.com/0xferrous/promptus) | No description | 3 months ago |
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 3 months ago |
-| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 3 months ago |
+| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 4 months ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 4 months ago |
 | [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | 4 months ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 5 months ago |
