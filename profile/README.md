@@ -2,17 +2,17 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-11-03 16:53:56Z
+Last generated: 2026-11-04 16:57:14Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [warren](https://github.com/0xferrous/warren) | No description | a day ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 2 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 2 days ago |
-| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 4 days ago |
+| [warren](https://github.com/0xferrous/warren) | No description | 2 days ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 3 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 3 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 3 days ago |
+| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 5 days ago |
 | [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | a week ago |
 | [drydock](https://github.com/0xferrous/drydock) | No description | 2 weeks ago |
 | [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 3 weeks ago |
@@ -23,7 +23,7 @@ Last generated: 2026-11-03 16:53:56Z
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 3 months ago |
 | [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 4 months ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 4 months ago |
-| [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | 4 months ago |
+| [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | 5 months ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 5 months ago |
 | [dbuz](https://github.com/0xferrous/dbuz) | Terminal UI for exploring debugging and interacting with D Bus services | 6 months ago |
 | [ghmd](https://github.com/0xferrous/ghmd) | GitHub flavored Markdown to HTML renderer with TOC syntax highlighting Mermaid and footnotes | 6 months ago |
