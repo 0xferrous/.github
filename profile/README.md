@@ -2,20 +2,20 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-11-04 16:57:14Z
+Last generated: 2026-11-05 17:12:44Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [warren](https://github.com/0xferrous/warren) | No description | 2 days ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 3 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 3 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 3 days ago |
-| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 5 days ago |
+| [warren](https://github.com/0xferrous/warren) | No description | 3 days ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 4 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 4 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 days ago |
+| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | a week ago |
 | [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | a week ago |
 | [drydock](https://github.com/0xferrous/drydock) | No description | 2 weeks ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 3 weeks ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 4 weeks ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a month ago |
 | [pi-near-ai](https://github.com/0xferrous/pi-near-ai) | a pi provider plugin to access near ai's private inference | a month ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 2 months ago |
