@@ -2,20 +2,20 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-11-05 17:12:44Z
+Last generated: 2026-11-06 16:39:07Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [warren](https://github.com/0xferrous/warren) | No description | 3 days ago |
+| [warren](https://github.com/0xferrous/warren) | No description | 4 days ago |
 | [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 4 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 4 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 4 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 5 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 5 days ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | a week ago |
-| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | a week ago |
+| [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 2 weeks ago |
 | [drydock](https://github.com/0xferrous/drydock) | No description | 2 weeks ago |
-| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 4 weeks ago |
+| [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a month ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a month ago |
 | [pi-near-ai](https://github.com/0xferrous/pi-near-ai) | a pi provider plugin to access near ai's private inference | a month ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 2 months ago |
@@ -30,7 +30,7 @@ Last generated: 2026-11-05 17:12:44Z
 | [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 6 months ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 7 months ago |
 | [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | 7 months ago |
-| [wispd](https://github.com/0xferrous/wispd) | A Wayland notification daemon implementing org freedesktop Notifications with a layer shell popup UI and debug tooling | 7 months ago |
+| [wispd](https://github.com/0xferrous/wispd) | A Wayland notification daemon implementing org freedesktop Notifications with a layer shell popup UI and debug tooling | 8 months ago |
 | [agent-box.nu](https://github.com/0xferrous/agent-box.nu) | No description | 8 months ago |
 | [fzf-keys](https://github.com/0xferrous/fzf-keys) | Search through keybinds from various programs using fzf | 9 months ago |
 | [evm-asm](https://github.com/0xferrous/evm-asm) | compile time evm assembly | 9 months ago |
