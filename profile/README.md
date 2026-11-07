@@ -2,16 +2,16 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-11-06 16:39:07Z
+Last generated: 2026-11-07 15:31:57Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [warren](https://github.com/0xferrous/warren) | No description | 4 days ago |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 4 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 5 days ago |
-| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 5 days ago |
+| [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 6 hours ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 8 hours ago |
+| [warren](https://github.com/0xferrous/warren) | No description | 5 days ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 5 days ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | a week ago |
 | [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 2 weeks ago |
 | [drydock](https://github.com/0xferrous/drydock) | No description | 2 weeks ago |
@@ -20,14 +20,14 @@ Last generated: 2026-11-06 16:39:07Z
 | [pi-near-ai](https://github.com/0xferrous/pi-near-ai) | a pi provider plugin to access near ai's private inference | a month ago |
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 2 months ago |
 | [promptus](https://github.com/0xferrous/promptus) | No description | 3 months ago |
-| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 3 months ago |
+| [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 4 months ago |
 | [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 4 months ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 4 months ago |
 | [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | 5 months ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 5 months ago |
 | [dbuz](https://github.com/0xferrous/dbuz) | Terminal UI for exploring debugging and interacting with D Bus services | 6 months ago |
 | [ghmd](https://github.com/0xferrous/ghmd) | GitHub flavored Markdown to HTML renderer with TOC syntax highlighting Mermaid and footnotes | 6 months ago |
-| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 6 months ago |
+| [frcat](https://github.com/0xferrous/frcat) | Inspect Frame signer files and extract keys from local data | 7 months ago |
 | [diffie.nvim](https://github.com/0xferrous/diffie.nvim) | No description | 7 months ago |
 | [frs-nvim](https://github.com/0xferrous/frs-nvim) | No description | 7 months ago |
 | [wispd](https://github.com/0xferrous/wispd) | A Wayland notification daemon implementing org freedesktop Notifications with a layer shell popup UI and debug tooling | 8 months ago |
