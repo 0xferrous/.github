@@ -2,19 +2,19 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-11-14 15:39:43Z
+Last generated: 2026-11-15 16:09:54Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 days ago |
-| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 3 days ago |
+| [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 3 days ago |
+| [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 4 days ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | a week ago |
 | [warren](https://github.com/0xferrous/warren) | No description | 2 weeks ago |
 | [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 2 weeks ago |
 | [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | 2 weeks ago |
-| [drydock](https://github.com/0xferrous/drydock) | No description | 3 weeks ago |
+| [drydock](https://github.com/0xferrous/drydock) | No description | 4 weeks ago |
 | [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | a month ago |
 | [agent-stuff](https://github.com/0xferrous/agent-stuff) | No description | a month ago |
 | [pi-near-ai](https://github.com/0xferrous/pi-near-ai) | a pi provider plugin to access near ai's private inference | 2 months ago |
