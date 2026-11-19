@@ -2,12 +2,13 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-11-18 17:53:23Z
+Last generated: 2026-11-19 18:04:42Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
+| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 4 hours ago |
 | [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | a week ago |
 | [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | a week ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 2 weeks ago |
@@ -21,7 +22,6 @@ Last generated: 2026-11-18 17:53:23Z
 | [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 2 months ago |
 | [promptus](https://github.com/0xferrous/promptus) | No description | 3 months ago |
 | [trace](https://github.com/0xferrous/trace) | Interactive traces for foundry | 4 months ago |
-| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 4 months ago |
 | [ethx](https://github.com/0xferrous/ethx) | Experimental Ethereum CLI built on Foundry and Alloy with cast send like transaction sending and extensible smart account support | 5 months ago |
 | [univ4-erc7399-flash-loan](https://github.com/0xferrous/univ4-erc7399-flash-loan) | ERC 7399 flash loan wrapper for Uniswap v4 | 5 months ago |
 | [cctp](https://github.com/0xferrous/cctp) | CLI for Circle CCTP transfers with EVM burn claim bridge attestation and re attestation support | 5 months ago |
