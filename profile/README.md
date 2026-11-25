@@ -2,14 +2,14 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-11-24 20:01:36Z
+Last generated: 2026-11-25 19:01:36Z
 
 ## Repositories
 
 | Repository | Description | Last updated |
 | --- | --- | --- |
-| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 4 days ago |
-| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 5 days ago |
+| [ansi.nvim](https://github.com/0xferrous/ansi.nvim) | A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer | 5 days ago |
+| [jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim) | Neovim plugin for highlighting and resolving Jujutsu jj file conflicts with multi sided conflict support | 6 days ago |
 | [0xferrous.github.io](https://github.com/0xferrous/0xferrous.github.io) | No description | 2 weeks ago |
 | [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 2 weeks ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 2 weeks ago |
