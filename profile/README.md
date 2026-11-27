@@ -2,7 +2,7 @@
 
 A list of all non-fork repositories under the `0xferrous` GitHub account, sorted by recent GitHub activity. Each row shows the repo, its GitHub description, and a human-readable last updated time.
 
-Last generated: 2026-11-26 18:53:25Z
+Last generated: 2026-11-27 18:45:36Z
 
 ## Repositories
 
@@ -14,7 +14,7 @@ Last generated: 2026-11-26 18:53:25Z
 | [my-nix](https://github.com/0xferrous/my-nix) | My public nix config with some reusable modules | 2 weeks ago |
 | [CodexBar-flake](https://github.com/0xferrous/CodexBar-flake) | Nix flake packaging the Linux CodexBar CLI with automated updates from upstream GitHub releases | 2 weeks ago |
 | [warren](https://github.com/0xferrous/warren) | No description | 3 weeks ago |
-| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 3 weeks ago |
+| [agent-box](https://github.com/0xferrous/agent-box) | Sandboxed containers for AI coding agents with disposable Git Jujutsu workspaces | 4 weeks ago |
 | [ash](https://github.com/0xferrous/ash) | ash is a CLI for spawning attaching to suspending resuming mounting into and deleting NixOS agent VMs through virtle | a month ago |
 | [drydock](https://github.com/0xferrous/drydock) | No description | a month ago |
 | [plankevm-flake](https://github.com/0xferrous/plankevm-flake) | Flake for plankc nightly and stable releases | 2 months ago |
